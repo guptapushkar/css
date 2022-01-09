@@ -1,2 +1,2 @@
-# css1
+# css
 Add initial css files
